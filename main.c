@@ -2,5 +2,5 @@
 
 int main(){
     printf("First push to main\n");
-    printf("First push to sub");
+    printf("Edit main");
 }
